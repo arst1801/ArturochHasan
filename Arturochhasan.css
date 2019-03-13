@@ -1,0 +1,27 @@
+#starta{
+    position:relative;
+    float:center;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:65%;
+ }
+ 
+#omoss{
+    position:relative;
+    float:right;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:30%;
+ 
+ }
+ 
+ #vigor{
+    position:relative;
+    float:left;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:30%;
+ }
+ 
+
+ 
