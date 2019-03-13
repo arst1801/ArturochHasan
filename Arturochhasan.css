@@ -88,3 +88,34 @@
    float: right;
    
 }
+
+#footer{
+   position: relative;
+   display: block;
+   overflow: auto;
+   margin-top:16px; 
+   bottom:0;
+   width: 100%;
+   height: 134px;
+   border-top: 1px solid #333;
+   background: rgb(156, 156, 141);
+}
+#footnote{
+   position:relative;
+   margin:0 auto;
+   padding:0;
+   max-width:980px;
+}
+
+.fa {
+   padding-top: 50px;
+   width: 70px;
+   text-align: center;
+   text-decoration: none;
+   color: rgb(247, 243, 17);
+}
+
+.fa:hover {
+   opacity: 0.5;
+   color:rgb(203, 204, 198);
+}
